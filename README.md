@@ -4,7 +4,7 @@
 
 
 
-# 🧪EXPERIMENT NO: 7
+# EXPERIMENT NO: 7
 
 # TITLE: Study of While Loops in Python
 
@@ -14,7 +14,7 @@
 
 ---
 
-# 🎯AIM
+# AIM
 
 To study and implement looping constructs in Python, especially the `while` loop, along with `for` loop, nested loops, break, continue statements, and pattern-based programs.
 
